@@ -125,8 +125,11 @@ section {
     padding: 10px;
   }
 
-  #name, #occupation, #brand, #offer {
-    background-color: lightgray;
+  #name, 
+  #occupation, 
+  #brand, 
+  #offer {
+    background-color: rgb(223, 219, 219);
   }
 
 }
